@@ -1,0 +1,19 @@
+.cart {
+    color: #000000;
+    margin-left: 10px;
+
+}
+
+.choose-btn {
+    height: 40px;
+    width: 150px;
+    margin-top: 20px;
+    color: rgb(115, 0, 246);
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.choose-btn:hover {
+    background-color: rgb(255, 172, 18);
+    color: blue;
+}
